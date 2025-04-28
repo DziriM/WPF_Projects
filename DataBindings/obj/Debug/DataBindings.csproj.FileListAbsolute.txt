@@ -1,0 +1,15 @@
+C:\Users\CaCodeDeSource\source\repos\DataBindings\bin\Debug\DataBindings.exe.config
+C:\Users\CaCodeDeSource\source\repos\DataBindings\bin\Debug\DataBindings.exe
+C:\Users\CaCodeDeSource\source\repos\DataBindings\bin\Debug\DataBindings.pdb
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\DataBindings.csproj.AssemblyReference.cache
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\MainWindow.g.cs
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\App.g.cs
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\DataBindings_MarkupCompile.cache
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\DataBindings_MarkupCompile.lref
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\MainWindow.baml
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\DataBindings.g.resources
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\DataBindings.Properties.Resources.resources
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\DataBindings.csproj.GenerateResource.cache
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\DataBindings.csproj.CoreCompileInputs.cache
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\DataBindings.exe
+C:\Users\CaCodeDeSource\source\repos\DataBindings\obj\Debug\DataBindings.pdb
